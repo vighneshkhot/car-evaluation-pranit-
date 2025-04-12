@@ -1,0 +1,6 @@
+pandas
+strimlit 
+seaborn 
+matplotlib 
+scikikt-learn
+statsmodels
